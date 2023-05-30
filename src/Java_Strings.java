@@ -47,6 +47,5 @@ public class Java_Strings
         System.out.println("Mary had a little lamb!");
         System.out.println("Mary\t had\t a\t little\t lamb!");
         System.out.println("Mary\n had\n a\n little\n lamb!");
-        
     }
 }
